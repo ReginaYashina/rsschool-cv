@@ -35,7 +35,7 @@ function nicknameGenerator(name) {
 }
 console.log(nicknameGenerator('Gregory'))
 ```
-## Experience and code example
+## Experience
 Now my work is related to the development of sites on WordPress. Here are links to finished projects:  
 - <https://okna-dan.by/>
 - <https://belikov.by/>

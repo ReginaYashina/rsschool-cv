@@ -19,7 +19,7 @@ I graduated from the Belarusian State University of Informatics and Radioelectro
 - CMS Wordpress
 - Photoshop
 - Figma
-- Bootstrap (grid)
+- Bootstrap (grid)  
 ## **Code Example**
 ```
 // 7. Nickname Generator

@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0 auto;
+	width: 1024px;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 37px;
+	font-weight: lighter;
+	margin-bottom: 35px;
+}
+
+h2 {
+	font-size: 35px;
+	margin-bottom: 15px;
+}
+
+.header {
+	background-color: #f0f8ff;
+	display: flex;
+	/*height: 333px;*/
+	letter-spacing: 1.5px;
+}
+
+.header img {
+	width: 250px;
+	margin: 15px;
+}
+
+.header section {
+	flex: 1 0 0;
+	padding: 30px 50px;
+}
+
+.header p {
+	font-size: 45px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.header ul {
+	list-style-type: none;
+	font-size: 25px;
+}
+
+.header li {
+	margin-bottom: 5px;
+}
+
+ul a {
+	text-decoration: none;
+	color: #000;
+}
+ul a:hover {
+	color: #1e90ff;
+}
+
+.main {
+	font-size: 23px;
+	line-height: 1.5;
+	text-align: justify;
+}
+.main ul {
+	list-style-type: none;
+	margin-top: 30px;
+}
+
+.top {
+	margin-top: 30px;
+}
+
+/*Objective & Summary:*/
+.main article h2 {
+	margin-top: 30px;
+	background-color: #f0f8ff;
+}
+
+.obj {
+	margin-bottom: 15px;
+}
+
+.obj,
+.summary {
+	text-indent: 35px;
+}
+/*Skills:*/
+.knowledge {
+	margin-bottom: 25px;
+}
+.skills {
+	display: flex;
+	background-color: rgba(248, 248, 255, 0.5);
+}
+
+.skills ul {
+	width: 500px;
+	padding-left: 35px;
+}
+
+.skills li {
+	margin-bottom: 5px;
+}
+
+.english {
+	margin-bottom: 70px;
+}
+.code {
+	padding: 15px 15px 25px;
+}

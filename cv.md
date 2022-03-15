@@ -35,7 +35,7 @@ function nicknameGenerator(name) {
 }
 console.log(nicknameGenerator('Gregory'))
 ```
-## Experience
+## **Experience**
 Now my work is related to the development of sites on WordPress. Here are links to finished projects:  
 - <https://okna-dan.by/>
 - <https://belikov.by/>
@@ -44,7 +44,7 @@ Now my work is related to the development of sites on WordPress. Here are links 
 - <https://okna-trade.by/>
 - <https://clean-light.ru/>
 - <https://tonymotors.by/>
-## Examples of studies:
+## **Examples of studies:**
 - <https://reginayashina.github.io/animation>
 - <https://reginayashina.github.io/samsung>
 - <https://reginayashina.github.io/hexal>

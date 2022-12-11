@@ -8,6 +8,8 @@
 body {
   font-family: 'Roboto', sans-serif;
   --accent-color: #094B72;
+  /* 217074 */
+  /* C7495C */
 }
 
 body._lock {
@@ -25,6 +27,26 @@ section {
 
 .row {
   display: flex;
+  position: relative;
+}
+
+.color-scheme {
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-align: right;
+  background: rgb(236, 236, 236);
+  padding: 5px 10px;
+  z-index: 17;
+  display: flex;
+  align-items: center;
+}
+
+.color-scheme p {
+  font-size: 12px;
+  line-height: 110%;
+  color: #000000;
+  margin-right: 10px;
 }
 
 .header {}

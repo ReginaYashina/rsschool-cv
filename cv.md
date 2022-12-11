@@ -1,5 +1,5 @@
 # rsschool-cv
-![Regina Yashina ](/cv-min.jpg)
+![Regina Yashina ](img/cv-min.jpg)
 ## **Regina Yashina**
 ## **Contacts:** 
 *phone number:* +375 (33) 3418764  

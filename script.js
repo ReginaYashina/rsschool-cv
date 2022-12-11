@@ -32,3 +32,8 @@ burger.addEventListener('click', function () {
 })
 
 //=======================================================
+const colorButton = document.getElementById('color');
+colorButton.addEventListener('change', function (e) {
+  console.log(e.target.value);
+  document.querySelector('body').style.setProperty('--accent-color', e.target.value);
+});

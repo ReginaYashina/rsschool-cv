@@ -40,6 +40,8 @@ section {
   z-index: 17;
   display: flex;
   align-items: center;
+  animation: 3s ease 0s infinite pulse;
+  border: 2px solid rgb(236, 236, 236);
 }
 
 .color-scheme p {
@@ -492,6 +494,22 @@ section {
   100% {
     transform: rotate(360deg);
   }
+}
+
+@keyframes pulse {
+  0% {
+    border: 2px solid rgb(236, 236, 236);
+  }
+
+  50% {
+    border: 2px solid var(--accent-color);
+  }
+
+  100% {
+    border: 2px solid rgb(236, 236, 236);
+  }
+
+
 }
 
 @media (max-width:1024px) {

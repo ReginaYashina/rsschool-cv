@@ -1,3 +1,3 @@
-[https://ReginaYashina.github.io/rsschool-cv/cv](https://ReginaYashina.github.io/rsschool-cv/cv)
+[https://yashina-training.github.io/rsschool-cv/cv](https://yashina-training.github.io/rsschool-cv/cv)
 
-[https://ReginaYashina.github.io/rsschool-cv/](https://ReginaYashina.github.io/rsschool-cv/)
+[https://yashina-training.github.io/rsschool-cv/](https://yashina-training.github.io/rsschool-cv/)
